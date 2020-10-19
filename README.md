@@ -1,4 +1,4 @@
-‍![Me as a speaker](https://media-exp1.licdn.com/dms/image/C5616AQEk0Y7UULGvGw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=nNUfugsLcJqmDiADhl3tjn5Fpb4vj0izHBN0Tpxjqow)
+‍![Me as a speaker](https://media-exp1.licdn.com/dms/image/C5616AQEk0Y7UULGvGw/profile-displaybackgroundimage-shrink_350_1400/0?e=1608768000&v=beta&t=S3ZH1BQnY20WnzewfuksJ6h4RFDyXcUX24v9Tm6hbgo)
 
 💻 Software Artist
 * Build software with highest standards 
