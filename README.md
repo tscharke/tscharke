@@ -1,6 +1,4 @@
-‍![Me as a speaker](https://media-exp1.licdn.com/dms/image/C5616AQEk0Y7UULGvGw/profile-displaybackgroundimage-shrink_350_1400/0?e=1608768000&v=beta&t=S3ZH1BQnY20WnzewfuksJ6h4RFDyXcUX24v9Tm6hbgo)
-
-💻 Software Artist
+‍💻 Software Artist
 * Build software with highest standards 
 * Being an excellent software engineer
 * Write good and easy-to-understand code
