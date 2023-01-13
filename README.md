@@ -1,6 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Scharke!
 
 ### Software Artist • Freelancer • Trainer • Guide • Digital Nomad
+<b>P A S S I O N A T E&nbsp;&nbsp;&nbsp;I M P L E M E N T E R&nbsp;&nbsp;&nbsp;O F&nbsp;&nbsp;&nbsp;I D E A S</b>
 
 ## 🧑‍🎨 Software Artist
 * Build software with highest standards 
