@@ -38,7 +38,7 @@ stakeholders.
 
 All this with passion, compassion and focus of people and products.
 
-### 🦑 tl;dr
+### 🦑 TL;DR
 
 * 😃 Pronouns: he/him
 * ❤️ TypeScript • JavaScript • React • React-Native • Digital Nomad • Future Work • Collaboration • Compassionate
@@ -46,7 +46,7 @@ All this with passion, compassion and focus of people and products.
 * 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
 * 🌐 [Full Profile](https://bit.ly/thomas_scharke)
 
-## Skills
+## 🧠 Skills
 <ul>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="16" height="16" alt="TypeScript" /> 
@@ -112,10 +112,11 @@ All this with passion, compassion and focus of people and products.
     </li>
 </ul>
 
-## Interested in…
+## 🔍 Interested in…
 
 * 🥂 Freelancer projects  (Full-Stack)
 * 🧑‍🤝‍🧑 Open source projects, I can contribute to
+* 🧠 [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
 
 ## Socials
 
