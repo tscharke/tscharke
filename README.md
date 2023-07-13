@@ -6,7 +6,7 @@
 
 ## 🧑‍🎨 Software Artist
 
-* Build software with highest standards
+* Build software with the highest standards
 * Being an excellent software engineer
 * Write good and easy-to-understand code
 * Design good and easy-to-use architectures
@@ -22,7 +22,7 @@
 
 ## 🎓 Trainer / Teacher / Guide
 
-Impart my knowledge, experiences and practical things that I use daily on topics like **JavaScript**, **TypeScript**, **React**, **React-Native** in courses
+Impart my knowledge, experiences and practical things that I use daily on topics like **TypeScript**, **JavaScript**, **React** in courses
 
 ## ✈️ Digital Nomad
 
@@ -31,9 +31,9 @@ Impart my knowledge, experiences and practical things that I use daily on topics
 
 ## 🦸‍♂️ More about me…
 
-With over 20 years of competence in creating applications, I‘m an expert at leading and developing projects for mobile and web (Apps, SPAs, API-services, etc.).
+With over 25 years of competence in creating production ready applications, I am an expert at leading and developing projects for mobile and web (Apps, SPAs, API-services like REST, GraphQL, JSON-RPC, SOAP, …, etc.).
 
-I dispose of a deep understanding of the front- and backend, the integration of different systems, the interaction, the product and the communication with
+I dispose of a deep understanding of the front- and backend, the integration of multiple different systems, the interaction, the product and the communication with
 stakeholders.
 
 All this with passion, compassion and focus of people and products.
@@ -41,7 +41,7 @@ All this with passion, compassion and focus of people and products.
 ### 🦑 tl;dr
 
 * 😃 Pronouns: he/him
-* ❤️ JavaScript • TypeScript • React • React-Native • Digital Nomad • Remote Work • Distributed Work • Future Work • Collaboration • Compassionate
+* ❤️ TypeScript • JavaScript • React • React-Native • Digital Nomad • Future Work • Collaboration • Compassionate
 * 📝 Change is the only constant in life
 * 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
 * 🌐 [Full Profile](https://bit.ly/thomas_scharke)
@@ -114,7 +114,7 @@ All this with passion, compassion and focus of people and products.
 
 ## Socials
 
-<p align="left"> <a href="https://www.dev.to/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/t_scharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p> <a href="https://www.dev.to/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Link to my Dev.to-Profile"/></a> <a href="https://www.github.com/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Link to my GitHub-Profile"/></a> <a href="https://www.linkedin.com/in/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Link to my LinkedIn-Profile" /></a> <a href="https://www.twitter.com/t_scharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Link to my Twitter-Profile"/></a></p>
 
 ## Support Me
 
