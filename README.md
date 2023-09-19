@@ -1,8 +1,16 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Scharke!
 
-### Software Artist • Freelancer • Trainer • Guide • Digital Nomad
+### Software Artist • Freelancer • Trainer • Guide • Remote Worker
 
 <b>P A S S I O N A T E&nbsp;&nbsp;&nbsp;I M P L E M E N T E R&nbsp;&nbsp;&nbsp;O F&nbsp;&nbsp;&nbsp;I D E A S</b>
+
+### 🦑 TL;DR
+
+* 😃 Pronouns: he/him
+* ❤️ TypeScript • JavaScript • React • React-Native • Remote Worker • Collaboration • Compassionate
+* 📝 Change is the only constant in life
+* 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
+* 🌐 [Full Profile](https://bit.ly/thomas_scharke)
 
 ## 🧑‍🎨 Software Artist
 
@@ -24,10 +32,10 @@
 
 Impart my knowledge, experiences and practical things that I use daily on topics like **TypeScript**, **JavaScript**, **React** in courses
 
-## ✈️ Digital Nomad
+## ✈️ Remote Worker
 
 * Means 100% independent of location and only occasionally on site.
-* Frequently used words in this context are also **RemoteWork**, **Distributed Work**, **Future Work**
+* Frequently used words in this context are also **Distributed Work**, **Fully Distributed** or **Future Work**.
 
 ## 🦸‍♂️ More about me…
 
@@ -37,14 +45,6 @@ I dispose of a deep understanding of the front- and backend, the integration of 
 stakeholders.
 
 All this with passion, compassion and focus of people and products.
-
-### 🦑 TL;DR
-
-* 😃 Pronouns: he/him
-* ❤️ TypeScript • JavaScript • React • React-Native • Digital Nomad • Future Work • Collaboration • Compassionate
-* 📝 Change is the only constant in life
-* 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
-* 🌐 [Full Profile](https://bit.ly/thomas_scharke)
 
 ## 🧠 Skills
 <ul>
@@ -116,7 +116,7 @@ All this with passion, compassion and focus of people and products.
 
 * 🥂 Freelancer projects  (Full-Stack)
 * 🧑‍🤝‍🧑 Open source projects, I can contribute to
-* 🧠 [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
+* 🧠 NextJS & [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
 
 ## Socials
 
