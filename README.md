@@ -6,13 +6,18 @@
 
 ### 🦑 TL;DR
 
-* 😃 Pronouns: he/him
-* ❤️ TypeScript • JavaScript • React • React-Native • Remote Worker • Collaboration • Compassionate
+* 🧑‍🎨 Software Artist _aka a **Senior Software Engeneer** who looks beyond the plate_
+* 🧑‍💻 TypeScript • React • Frontend • Backend • Full-Stack
+* ❤️ Collaboration • Compassionate
+* 🎓 Trainer • Teacher • Mentor • Guide
+* ✈️ Remote Worker • Future Worker
 * 📝 Change is the only constant in life
+* 😃 Pronouns: he/him
 * 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
 * 🌐 [Full Profile](https://bit.ly/thomas_scharke)
 
 ## 🧑‍🎨 Software Artist
+_aka a **Senior Software Engeneer** who looks beyond the plate_
 
 * Build software with the highest standards
 * Being an excellent software engineer
