@@ -125,7 +125,11 @@ I'm an adept manager and developer of projects for mobile and web platforms, inc
 
 ## Socials
 
-<p> <a href="https://www.dev.to/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Link to my Dev.to-Profile"/></a> <a href="https://www.github.com/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Link to my GitHub-Profile"/></a> <a href="https://www.linkedin.com/in/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Link to my LinkedIn-Profile" /></a> <a href="https://www.twitter.com/t_scharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Link to my Twitter-Profile"/></a></p>
+<span>
+<a href="https://www.linkedin.com/in/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Link to my LinkedIn-Profile" /></a>
+<a href="https://www.dev.to/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Link to my Dev.to-Profile"/></a>
+<a href="https://www.github.com/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Link to my GitHub-Profile"/></a>
+</span>
 
 ## Support Me
 
