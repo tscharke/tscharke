@@ -44,12 +44,12 @@ Impart my knowledge, experiences and practical things that I use daily on topics
 
 ## 🦸‍♂️ More about me…
 
-With over 25 years of competence in creating production ready applications, I am an expert at leading and developing projects for mobile and web (Apps, SPAs, API-services like REST, GraphQL, JSON-RPC, SOAP, …, etc.).
+I've worked in software development for over 25 years as a consultant and freelancer, proudly referring to myself as a **Software Artist**.
+In addition to this, I'm a **Trainer** and **Remote Worker**. It means that I collaborate with interdisciplinary and distributed teams, regardless of their location or time zone. Moreover, I am a passionate executor of ideas, focusing my enthusiasm, empathy, and attention on people and products.
 
-I dispose of a deep understanding of the front- and backend, the integration of multiple different systems, the interaction, the product and the communication with
-stakeholders.
+I have been utilizing **React** since 2015, **JavaScript** since the turn of the millennium, and **TypeScript** since its inception. With my profound comprehension of technologies, encompassing both **Frontend** and **Backend** development, integration of diverse systems, user interaction, product development, and effective **communication** with stakeholders, combined with my genuine **affinity for people**, I possess the expertise required to construct applications.
 
-All this with passion, compassion and focus of people and products.
+I'm an adept manager and developer of projects for mobile and web platforms, including applications, single-page applications (SPAs), and API services, among others.
 
 ## 🧠 Skills
 <ul>
