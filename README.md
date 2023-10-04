@@ -1,10 +1,10 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Scharke!
+# Hi 👋 My name is Thomas Scharke!
 
 ### Software Artist • Freelancer • Trainer • Guide • Remote Worker
 
 <b>P A S S I O N A T E&nbsp;&nbsp;&nbsp;I M P L E M E N T E R&nbsp;&nbsp;&nbsp;O F&nbsp;&nbsp;&nbsp;I D E A S</b>
 
-### 🦑 TL;DR
+## 🦑 TL;DR
 
 * 🧑‍🎨 Software Artist _aka a **Senior Software Engeneer** who looks beyond the plate_
 * 🧑‍💻 TypeScript • React • Frontend • Backend • Full-Stack
