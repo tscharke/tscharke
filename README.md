@@ -131,8 +131,10 @@ I'm an adept manager and developer of projects for mobile and web platforms, inc
 <a href="https://www.github.com/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Link to my GitHub-Profile"/></a>
 </span>
 
-## Support Me
+## ❤️ Support Me
 
-<a href="https://www.buymeacoffee.com/tscharke"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tscharke)
+
+## 🙏 Credits
 
 Shoutout to [James Q Quick](https://github.com/jamesqquick) for the inspiration!
