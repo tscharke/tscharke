@@ -121,19 +121,16 @@ I'm an adept manager and developer of projects for mobile and web platforms, inc
 
 * 🥂 Freelancer projects  (Full-Stack)
 * 🧑‍🤝‍🧑 Open source projects, I can contribute to
-* 🧠 NextJS & [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
+* 🧠 Remix & [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components) 
 
-## Socials
+## ❤️ More…
 
-<span>
-<a href="https://www.linkedin.com/in/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Link to my LinkedIn-Profile" /></a>
-<a href="https://www.dev.to/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Link to my Dev.to-Profile"/></a>
-<a href="https://www.github.com/tscharke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Link to my GitHub-Profile"/></a>
-</span>
+[![Sponsors me](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tscharke)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn-Profile">](https://www.linkedin.com/in/tscharke)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Dev.to-Profile">](https://www.dev.to/tscharke)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub-Profile">](https://www.github.com/tscharke)
 
-## ❤️ Support Me
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tscharke)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tscharke&show_icons=true&theme=transparent&layout=compact&hide_progress=true&hide_border=true&langs_count=5&hide=Java,Ruby,Starlark&cache_seconds=86400)
 
 ## 🙏 Credits
 
