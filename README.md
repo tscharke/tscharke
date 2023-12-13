@@ -1,15 +1,15 @@
 # Hi 👋 My name is Thomas Scharke!
 
-### Software Artist • Freelancer • Trainer • Guide • Remote Worker
+### Software Artist • Freelancer • Trainer • Mentor • Remote Worker
 
 <b>P A S S I O N A T E&nbsp;&nbsp;&nbsp;I M P L E M E N T E R&nbsp;&nbsp;&nbsp;O F&nbsp;&nbsp;&nbsp;I D E A S</b>
 
-## 🦑 TL;DR
+## 🦑 tl;dr
 
-* 🧑‍🎨 Software Artist _aka a **Senior Software Engeneer** who looks beyond the plate_
+* 🧑‍🎨 Software Artist _aka a **Senior Software Engineer** who looks beyond the plate_
 * 🧑‍💻 TypeScript • React • Frontend • Backend • Full-Stack
 * ❤️ Collaboration • Compassionate
-* 🎓 Trainer • Teacher • Mentor • Guide
+* 🎓 Trainer • Teacher • [Mentor](https://mentors.codingcoach.io/?name=Thomas+Scharke)
 * ✈️ Remote Worker • Future Worker
 * 📝 Change is the only constant in life
 * 😃 Pronouns: he/him
@@ -17,41 +17,59 @@
 * 🌐 [Full Profile](https://bit.ly/thomas_scharke)
 
 ## 🧑‍🎨 Software Artist
-_aka a **Senior Software Engeneer** who looks beyond the plate_
 
-* Build software with the highest standards
-* Being an excellent software engineer
-* Write good and easy-to-understand code
-* Design good and easy-to-use architectures
-* Knowing how to write code and test code
-* Knowing how to identify business problems
-* Collect user requirements
-* Design a project
-* Release products/projects
-* Understand customers and stakeholders
-* Be a trainer, teacher and guide
-* Be an influencer
-* [More about choose my title…](https://bit.ly/softwareArtist)
+_aka a **Senior Software Engineer** who looks beyond the plate_
 
-## 🎓 Trainer / Teacher / Guide
+* Build software with the highest standards.
+* Being an excellent software engineer.
+* Write good and easy-to-understand code.
+* Design good and easy-to-use architecture.
+* Knowing how to write code and test code.
+* Knowing how to identify business problems.
+* Collect user requirements.
+* Design a project.
+* Release products/projects.
+* Understand customers and stakeholders.
+* Be a developer, trainer, teacher and [mentor](https://mentors.codingcoach.io/?name=Thomas+Scharke).
+* Be an influencer.
+* [More about choosing my title…](https://bit.ly/softwareArtist)
 
-Impart my knowledge, experiences and practical things that I use daily on topics like **TypeScript**, **JavaScript**, **React** in courses
+## 🎓 Trainer • Teacher • Mentor
 
-## ✈️ Remote Worker
+In addition to the development of consulting, I share my knowledge, experience and practical things on topics
+like **TypeScript**, **JavaScript**, **React** and **Software Development** in general in courses and
+1:1 [mentoring](https://mentors.codingcoach.io/?name=Thomas+Scharke) (@[Codingcoach.io](https://codingcoach.io)).
 
-* Means 100% independent of location and only occasionally on site.
-* Frequently used words in this context are also **Distributed Work**, **Fully Distributed** or **Future Work**.
+## 👽 Remote Worker • Future Worker
 
-## 🦸‍♂️ More about me…
+* 100% location-independent, with occasional on-site presence.
+* Examine things from diverse perspectives.
+* Identifies and implements creative solutions.
+* Challenges the status quo.
+* Proficient in collaborating effectively with virtual teams and individuals.
+* Advocates for a unique approach to collaboration.
+* Embraces a mindset aligned with **Future Work** principles.
 
-I've worked in software development for over 25 years as a consultant and freelancer, proudly referring to myself as a **Software Artist**.
-In addition to this, I'm a **Trainer** and **Remote Worker**. It means that I collaborate with interdisciplinary and distributed teams, regardless of their location or time zone. Moreover, I am a passionate executor of ideas, focusing my enthusiasm, empathy, and attention on people and products.
+## 🦸‍ More about me…
 
-I have been utilizing **React** since 2015, **JavaScript** since the turn of the millennium, and **TypeScript** since its inception. With my profound comprehension of technologies, encompassing both **Frontend** and **Backend** development, integration of diverse systems, user interaction, product development, and effective **communication** with stakeholders, combined with my genuine **affinity for people**, I possess the expertise required to construct applications.
+I've worked in software development for over 25 years as a consultant and freelancer, proudly referring to myself as
+a **Software Artist**.
 
-I'm an adept manager and developer of projects for mobile and web platforms, including applications, single-page applications (SPAs), and API services, among others.
+In addition to this, I'm a **Trainer**, **Mentor** and **Remote Worker**.
+It means that I collaborate with interdisciplinary and distributed teams, regardless of their
+location or time zone.
+Moreover, I am a passionate executor of ideas, focusing my enthusiasm, empathy, and attention on people and products.
+
+I have been utilizing **React** since 2015, **JavaScript** since the turn of the millennium, and **TypeScript** since
+its inception. With my profound comprehension of technologies, encompassing both **Frontend** and **Backend**
+development, integration of diverse systems, user interaction, product development, and effective **communication**
+with stakeholders, combined with my genuine **affinity for people**, I possess the expertise required to construct applications.
+
+I'm an experienced leader and developer of projects for mobile and web platforms, including applications,
+single-page applications (SPAs), (distributed) services, SaaS, among others.
 
 ## 🧠 Skills
+
 <ul>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="16" height="16" alt="TypeScript" /> 
@@ -119,9 +137,11 @@ I'm an adept manager and developer of projects for mobile and web platforms, inc
 
 ## 🔍 Interested in…
 
-* 🥂 Freelancer projects  (Full-Stack)
+* 🥂 Freelancer projects (Full-Stack)
+* 🧠 [HTMX](https://www.jetbrains.com/guide/dotnet/tutorials/htmx-aspnetcore/what-is-htmx)
+* 🧠 [Remix](https://remix.run)
+* 🧠 [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
 * 🧑‍🤝‍🧑 Open source projects, I can contribute to
-* 🧠 Remix & [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components) 
 
 ## ❤️ More…
 
@@ -131,7 +151,3 @@ I'm an adept manager and developer of projects for mobile and web platforms, inc
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub-Profile">](https://www.github.com/tscharke)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tscharke&show_icons=true&theme=transparent&layout=compact&hide_progress=true&hide_border=true&langs_count=5&hide=Java,Ruby,Starlark&cache_seconds=86400)
-
-## 🙏 Credits
-
-Shoutout to [James Q Quick](https://github.com/jamesqquick) for the inspiration!
