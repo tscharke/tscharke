@@ -14,7 +14,7 @@
 * 📝 Change is the only constant in life
 * 😃 Pronouns: he/him
 * 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
-* 🌐 [Full Profile](https://bit.ly/thomas_scharke)
+* 🌐 [Full Profile](www.linkedin.com/in/tscharke)
 
 ## 🧑‍🎨 Software Artist
 
@@ -40,7 +40,7 @@ In addition to the development of consulting, I share my knowledge, experience a
 like **TypeScript**, **JavaScript**, **React** and **Software Development** in general in courses and
 1:1 [mentoring](https://mentors.codingcoach.io/?name=Thomas+Scharke) (@[Codingcoach.io](https://codingcoach.io)).
 
-## 👽 Remote Worker • Future Worker
+## ✈️ Remote Worker • Future Worker
 
 * 100% location-independent, with occasional on-site presence.
 * Examine things from diverse perspectives.
@@ -137,7 +137,7 @@ single-page applications (SPAs), (distributed) services, SaaS, among others.
 
 ## 🔍 Interested in…
 
-* 🥂 Freelancer projects (Full-Stack)
+* 🫶 𝐞𝐌𝐨𝐛𝐢𝐥𝐢𝐭𝐲 and jobs in this area
 * 🧠 [HTMX](https://www.jetbrains.com/guide/dotnet/tutorials/htmx-aspnetcore/what-is-htmx)
 * 🧠 [Remix](https://remix.run)
 * 🧠 [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
