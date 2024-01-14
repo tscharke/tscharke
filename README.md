@@ -14,7 +14,7 @@
 * 📝 Change is the only constant in life
 * 😃 Pronouns: he/him
 * 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
-* 🌐 [Full Profile](www.linkedin.com/in/tscharke)
+* 🌐 [Full Profile](https://www.linkedin.com/in/tscharke)
 
 ## 🧑‍🎨 Software Artist
 
