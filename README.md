@@ -1,74 +1,46 @@
-# Hi 👋 My name is Thomas Scharke!
+🇩🇪 [German version](./README_DE.md)
 
-### Software Artist • Freelancer • Trainer • Mentor • Remote Worker
+# Hello 👋 My name is Thomas Scharke!
+
+## Software Artist • Senior Software Engineer • Trainer • Mentor • Remote Worker
 
 <b>P A S S I O N A T E&nbsp;&nbsp;&nbsp;I M P L E M E N T E R&nbsp;&nbsp;&nbsp;O F&nbsp;&nbsp;&nbsp;I D E A S</b>
 
-## 🦑 tl;dr
+### Summary:
 
-* 🧑‍🎨 Software Artist _aka a **Senior Software Engineer** who looks beyond the plate_
-* 🧑‍💻 TypeScript • React • Frontend • Backend • Full-Stack
-* ❤️ Collaboration • Compassionate
-* 🎓 Trainer • Teacher • [Mentor](https://mentors.codingcoach.io/?name=Thomas+Scharke)
-* ✈️ Remote Worker • Future Worker
-* 📝 Change is the only constant in life
-* 😃 Pronouns: he/him
-* 🐶 I like being a [Conference Buddy](https://www.conferencebuddy.io)
-* 🌐 [Full Profile](https://www.linkedin.com/in/tscharke)
+* 🧑‍🎨 **Software Artist**: I am an experienced Senior Software Engineer who thinks outside the box and develops software to the highest standards.
+* 🧑‍💻 **Technologies**: Proficient in TypeScript, React, Frontend, Backend, and Full-Stack development.
+* ❤️ **Collaboration**: Passionate advocate for collaboration and compassion in the workplace.
+* 🎓 **Trainer & Mentor**: Enjoy sharing my knowledge and experience through training and individual mentoring.
+* ✈️ **Remote Worker**: Experienced and effective remote worker actively shaping the future of work.
+* 📝 **Change is the only constant in life**: Always open to new challenges and changes.
+* 😃 **Pronouns**: He/him
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="16" alt="Objective-C" />&nbsp;**[Full Profile on LinkedIn](https://www.linkedin.com/in/tscharke)**
 
 ## 🧑‍🎨 Software Artist
 
-_aka a **Senior Software Engineer** who looks beyond the plate_
+As a passionate **Software Artist** (aka *Senior Software Engineer*) who always looks beyond the horizon, I see software development
+as an art form where every piece of code tells a story and every architecture reflects a creative vision.
 
-* Build software with the highest standards.
-* Being an excellent software engineer.
-* Write good and easy-to-understand code.
-* Design good and easy-to-use architecture.
-* Knowing how to write code and test code.
-* Knowing how to identify business problems.
-* Collect user requirements.
-* Design a project.
-* Release products/projects.
-* Understand customers and stakeholders.
-* Be a developer, trainer, teacher and [mentor](https://mentors.codingcoach.io/?name=Thomas+Scharke).
-* Be an influencer.
-* [More about choosing my title…](https://bit.ly/softwareArtist)
+My approach as a Software Artist goes beyond just writing code – I strive to craft **software to the highest standards**,
+which is not only functional but also aesthetically pleasing and user-friendly.
 
-## 🎓 Trainer • Teacher • Mentor
+Through my **extensive experience** in developing complex applications and my ability to translate technical ideas into innovative solutions,
+I have learned that successful software development is more than just solving technical problems. It's about understanding the **needs** of users,
+finding creative **solutions**, and creating a **product** that excites and inspires people.
 
-In addition to the development of consulting, I share my knowledge, experience and practical things on topics
-like **TypeScript**, **JavaScript**, **React** and **Software Development** in general in courses and
-1:1 [mentoring](https://mentors.codingcoach.io/?name=Thomas+Scharke) (@[Codingcoach.io](https://codingcoach.io)).
+My passion for software development drives me to constantly seek new challenges and to continuously evolve.
+As a Software Artist, I aim to design products that enhance the lives of users. My goal is to design software and architecture that are not only technically robust but also understandable and valuable to the entire team. I believe that well-thought-out software architecture is the foundation for successful collaboration and product development, and I am committed to realizing this vision in every project.
 
-## ✈️ Remote Worker • Future Worker
+Additionally, I have comprehensive experience in the following **software methodologies**, which I actively integrate into my work:
 
-* 100% location-independent, with occasional on-site presence.
-* Examine things from diverse perspectives.
-* Identifies and implements creative solutions.
-* Challenges the status quo.
-* Proficient in collaborating effectively with virtual teams and individuals.
-* Advocates for a unique approach to collaboration.
-* Embraces a mindset aligned with **Future Work** principles.
+- **T**est **D**riven **D**evelopment (TDD)
+- Agile methods (Scrum, Kanban)
+- **D**omain **D**riven **D**esign (DDD)
+- **C**ontinuous **I**ntegration/**C**ontinuous **D**elivery (CI/CD)
+- Clean Code
 
-## 🦸‍ More about me…
-
-I've worked in software development for over 25 years as a consultant and freelancer, proudly referring to myself as
-a **Software Artist**.
-
-In addition to this, I'm a **Trainer**, **Mentor** and **Remote Worker**.
-It means that I collaborate with interdisciplinary and distributed teams, regardless of their
-location or time zone.
-Moreover, I am a passionate executor of ideas, focusing my enthusiasm, empathy, and attention on people and products.
-
-I have been utilizing **React** since 2015, **JavaScript** since the turn of the millennium, and **TypeScript** since
-its inception. With my profound comprehension of technologies, encompassing both **Frontend** and **Backend**
-development, integration of diverse systems, user interaction, product development, and effective **communication**
-with stakeholders, combined with my genuine **affinity for people**, I possess the expertise required to construct applications.
-
-I'm an experienced leader and developer of projects for mobile and web platforms, including applications,
-single-page applications (SPAs), (distributed) services, SaaS, among others.
-
-## 🧠 Skills
+## 🧑‍💻 Technologies
 
 <ul>
     <li>
@@ -76,8 +48,8 @@ single-page applications (SPAs), (distributed) services, SaaS, among others.
         TypeScript
     </li>
     <li>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="16" height="16" alt="JavaScript" /> 
-        JavaScript
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="16" height="16" alt="React" /> 
+        React
     </li>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="16" height="16" alt="Tailwind" /> 
@@ -86,15 +58,20 @@ single-page applications (SPAs), (distributed) services, SaaS, among others.
         Tailwind / CSS / SCSS / Saas
     </li>
     <li>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="16" height="16" alt="React" /> 
-        React
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="16" height="16" alt="GraphQL" /> 
+        GraphQL, REST- & WebServices (SOAP)
+    </li>
+    <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="16" height="16" alt="JavaScript" /> 
+        JavaScript
+    </li>
+    <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="16" height="16" alt="HTML" /> 
+        HTML
     </li>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="16" height="16" alt="Redux" /> 
         Redux
-    </li>
-    <li>
-        Test-Driven Development (TDD)
     </li>
     <li>
         <img src="https://testing-library.com/img/octopus-64x64.png" width="16" height="16" alt="React Testing-Library" /> 
@@ -109,14 +86,6 @@ single-page applications (SPAs), (distributed) services, SaaS, among others.
         Jest
     </li>
     <li>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="16" height="16" alt="GraphQL" /> 
-        GraphQL
-    </li>
-    <li>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="16" height="16" alt="HTML" /> 
-        HTML
-    </li>
-    <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="16" height="16" alt="Vite" /> 
         Vite
     </li>
@@ -126,28 +95,79 @@ single-page applications (SPAs), (distributed) services, SaaS, among others.
         Node / Express
     </li>
     <li>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="16" height="16" alt="AWS" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="16" height="16" alt="Google Cloud" /> 
+      Serverless (Netlify, AWS, Google Cloud)
+    </li>
+    <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="16" height="16" alt="Docker" /> 
+        Docker
+    </li>
+    <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="16" height="16" alt="Mongo" /> 
-        Mongo
+        Mongo, DB2
     </li>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="16" height="16" alt="Git" />
-        Git
+        Git, Mercurial, Subversion
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="16" height="16" alt="React Native" /> 
+      React-Native
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="16" height="16" alt="AngularJS" />
+      AngularJS
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="16" height="16" alt="Java" />
+      Java (Spring, JPA, JSF, Java-EE)
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="16" height="16" alt="Objective-C" /> 
+      Objective-C
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="16" height="16" alt="PHP" />
+      PHP
     </li>
 </ul>
 
-## 🔍 Interested in…
+## 🦸‍ More…
 
-* 🫶 𝐞𝐌𝐨𝐛𝐢𝐥𝐢𝐭𝐲 and jobs in this area
-* 🧠 [HTMX](https://www.jetbrains.com/guide/dotnet/tutorials/htmx-aspnetcore/what-is-htmx)
-* 🧠 [Remix](https://remix.run)
-* 🧠 [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
-* 🧑‍🤝‍🧑 Open source projects, I can contribute to
+As an experienced Software Engineer, Trainer, and Mentor, I bring not only technical expertise but also a passion for teamwork, continuous learning, and personal development. My professional career has been characterized by collaborating in interdisciplinary teams and developing innovative solutions for complex problems.
 
-## ❤️ More…
+As a Remote Worker, I am accustomed to working effectively and independently while maintaining communication with my team members. I value the diversity and opportunities that the digital workspace offers and actively strive to create a positive and supportive work environment.
 
-[![Sponsors me](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tscharke)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn-Profile">](https://www.linkedin.com/in/tscharke)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Dev.to-Profile">](https://www.dev.to/tscharke)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub-Profile">](https://www.github.com/tscharke)
+In addition to my work as a Software Artist, I am involved in the open-source community and am always looking for new opportunities to share my knowledge and inspire others. My long-term vision is to make a sustainable contribution to the development of innovative technologies while bringing together people from diverse backgrounds.
+
+## 🎓 Trainer & Mentor
+
+In addition to development, I enjoy sharing my knowledge and experience through training and individual mentoring. I firmly believe that knowledge exchange is one of the key pillars of success and actively engage in fostering and supporting others.
+
+## ✈️ Remote Worker
+
+As a Remote Worker, I am skilled at effectively working in distributed teams and developing creative solutions. I am flexible and adaptable and have no problem navigating different environments. My goal is to actively shape the future of work and promote innovative approaches to collaboration.
+
+## 🫶 Interests and Professional Focus
+
+### Focus
+
+* 🫶 **Sustainable Development:** Passionate about innovations and developments in sustainable products for a better future.
+* 🧑‍🤝‍🧑 **Team and Collaboration:** Desire to work in a collaborative environment and build sustainable communities. Passionately committed to collaborating in interdisciplinary teams and creating positive work environments.
+* 🧑‍🤝‍🧑 **Open Source projects** I can contribute to
+
+### Interests
+
+* **React Server Components:** Curious about the potentials and use cases of [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components) and their impact on how we develop web applications.
+* **HTMX:** Fascinated by the possibilities of [HTMX](https://www.jetbrains.com/guide/dotnet/tutorials/htmx-aspnetcore/what-is-htmx), especially regarding extending web applications and improving user experience.
+* **Remix:** Interested in utilizing [Remix](https://remix.run) to develop modern web applications and implement best practices in web development.
+
+## ❤️ Links
+
+[![Support Me](https://img.shields.io/static/v1?label=Support%20Me&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tscharke)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn Profile">](https://www.linkedin.com/in/tscharke)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Dev.to Profile">](https://www.dev.to/tscharke)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub Profile">](https://www.github.com/tscharke)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tscharke&show_icons=true&theme=transparent&layout=compact&hide_progress=true&hide_border=true&langs_count=5&hide=Java,Ruby,Starlark&cache_seconds=86400)
