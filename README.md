@@ -1,21 +1,19 @@
 🇩🇪 [German version](./README_DE.md)
 
-# Hello 👋 My name is Thomas Scharke!
-
-## Software Artist • Senior Software Engineer • Trainer • Mentor • Remote Worker
+# Software Artist & Digital Visionary: Mastering the Art of Code
 
 <b>P A S S I O N A T E&nbsp;&nbsp;&nbsp;I M P L E M E N T E R&nbsp;&nbsp;&nbsp;O F&nbsp;&nbsp;&nbsp;I D E A S</b>
 
-### Summary:
+## Summary:
 
 * 🧑‍🎨 **Software Artist**: I am an experienced Senior Software Engineer who thinks outside the box and develops software to the highest standards.
 * 🧑‍💻 **Technologies**: Proficient in TypeScript, React, Frontend, Backend, and Full-Stack development.
 * ❤️ **Collaboration**: Passionate advocate for collaboration and compassion in the workplace.
 * 🎓 **Trainer & Mentor**: Enjoy sharing my knowledge and experience through training and individual mentoring.
-* ✈️ **Remote Worker**: Experienced and effective remote worker actively shaping the future of work.
 * 📝 **Change is the only constant in life**: Always open to new challenges and changes.
 * 😃 **Pronouns**: He/him
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="16" alt="Objective-C" />&nbsp;**[Full Profile on LinkedIn](https://www.linkedin.com/in/tscharke)**
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="16" alt="Objective-C" />
+  &nbsp;**[Full Profile on LinkedIn](https://www.linkedin.com/in/tscharke)**
 
 ## 🧑‍🎨 Software Artist
 
@@ -30,7 +28,9 @@ I have learned that successful software development is more than just solving te
 finding creative **solutions**, and creating a **product** that excites and inspires people.
 
 My passion for software development drives me to constantly seek new challenges and to continuously evolve.
-As a Software Artist, I aim to design products that enhance the lives of users. My goal is to design software and architecture that are not only technically robust but also understandable and valuable to the entire team. I believe that well-thought-out software architecture is the foundation for successful collaboration and product development, and I am committed to realizing this vision in every project.
+As a Software Artist, I aim to design products that enhance the lives of users. My goal is to design software and architecture that are not only technically
+robust but also understandable and valuable to the entire team. I believe that well-thought-out software architecture is the foundation for successful
+collaboration and product development, and I am committed to realizing this vision in every project.
 
 Additionally, I have comprehensive experience in the following **software methodologies**, which I actively integrate into my work:
 
@@ -48,8 +48,20 @@ Additionally, I have comprehensive experience in the following **software method
         TypeScript
     </li>
     <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="16" height="16" alt="JavaScript" /> 
+        JavaScript
+    </li>
+    <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="16" height="16" alt="React" /> 
         React
+    </li>
+    <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="16" height="16" alt="Svelte" /> 
+        Svelte
+    </li>
+    <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="16" height="16" alt="Next" /> 
+        NextJS 13+
     </li>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="16" height="16" alt="Tailwind" /> 
@@ -60,10 +72,6 @@ Additionally, I have comprehensive experience in the following **software method
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="16" height="16" alt="GraphQL" /> 
         GraphQL, REST- & WebServices (SOAP)
-    </li>
-    <li>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="16" height="16" alt="JavaScript" /> 
-        JavaScript
     </li>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="16" height="16" alt="HTML" /> 
@@ -135,32 +143,40 @@ Additionally, I have comprehensive experience in the following **software method
 
 ## 🦸‍ More…
 
-As an experienced Software Engineer, Trainer, and Mentor, I bring not only technical expertise but also a passion for teamwork, continuous learning, and personal development. My professional career has been characterized by collaborating in interdisciplinary teams and developing innovative solutions for complex problems.
+As an experienced Software Engineer, Trainer, and Mentor, I bring not only technical expertise but also a passion for teamwork, continuous learning, and
+personal development. My professional career has been characterized by collaborating in interdisciplinary teams and developing innovative solutions for complex
+problems.
 
-As a Remote Worker, I am accustomed to working effectively and independently while maintaining communication with my team members. I value the diversity and opportunities that the digital workspace offers and actively strive to create a positive and supportive work environment.
+As a Remote Worker, I am accustomed to working effectively and independently while maintaining communication with my team members. I value the diversity and
+opportunities that the digital workspace offers and actively strive to create a positive and supportive work environment.
 
-In addition to my work as a Software Artist, I am involved in the open-source community and am always looking for new opportunities to share my knowledge and inspire others. My long-term vision is to make a sustainable contribution to the development of innovative technologies while bringing together people from diverse backgrounds.
+In addition to my work as a Software Artist, I am involved in the open-source community and am always looking for new opportunities to share my knowledge and
+inspire others. My long-term vision is to make a sustainable contribution to the development of innovative technologies while bringing together people from
+diverse backgrounds.
 
 ## 🎓 Trainer & Mentor
 
-In addition to development, I enjoy sharing my knowledge and experience through training and individual mentoring. I firmly believe that knowledge exchange is one of the key pillars of success and actively engage in fostering and supporting others.
-
-## ✈️ Remote Worker
-
-As a Remote Worker, I am skilled at effectively working in distributed teams and developing creative solutions. I am flexible and adaptable and have no problem navigating different environments. My goal is to actively shape the future of work and promote innovative approaches to collaboration.
+In addition to development, I enjoy sharing my knowledge and experience through training and individual mentoring. I firmly believe that knowledge exchange is
+one of the key pillars of success and actively engage in fostering and supporting others.
 
 ## 🫶 Interests and Professional Focus
 
 ### Focus
 
+* 🧑‍🤝‍🧑 **Team and Collaboration:** Desire to work in a collaborative environment and build sustainable communities. Passionately committed to collaborating in
+  interdisciplinary teams and creating positive work environments.
 * 🫶 **Sustainable Development:** Passionate about innovations and developments in sustainable products for a better future.
-* 🧑‍🤝‍🧑 **Team and Collaboration:** Desire to work in a collaborative environment and build sustainable communities. Passionately committed to collaborating in interdisciplinary teams and creating positive work environments.
 * 🧑‍🤝‍🧑 **Open Source projects** I can contribute to
 
 ### Interests
 
-* **React Server Components:** Curious about the potentials and use cases of [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components) and their impact on how we develop web applications.
-* **HTMX:** Fascinated by the possibilities of [HTMX](https://www.jetbrains.com/guide/dotnet/tutorials/htmx-aspnetcore/what-is-htmx), especially regarding extending web applications and improving user experience.
+* **GO:** Interested in learning a new [programming language](https://go.dev) incl. the new concepts and fascinated by the possibilities coupled with the
+  apparent simplicity.
+* **React Server Components:** Curious about the potentials and use cases
+  of [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components) and their impact on
+  how we develop web applications.
+* **HTMX:** Fascinated by the possibilities of [HTMX](https://www.jetbrains.com/guide/dotnet/tutorials/htmx-aspnetcore/what-is-htmx), especially regarding
+  extending web applications and improving user experience.
 * **Remix:** Interested in utilizing [Remix](https://remix.run) to develop modern web applications and implement best practices in web development.
 
 ## ❤️ Links

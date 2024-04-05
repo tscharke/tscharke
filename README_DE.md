@@ -1,21 +1,19 @@
 🇬🇧 [English version](./README.md)
 
-# Hallo 👋 Mein Name ist Thomas Scharke!
-
-## Software Artist • Senior Software Engineer • Trainer • Mentor • Remote Worker
+# Software Artist & Digital Visionary: Mastering the Art of Code
 
 <b>P A S S I O N A T E&nbsp;&nbsp;&nbsp;I M P L E M E N T E R&nbsp;&nbsp;&nbsp;O F&nbsp;&nbsp;&nbsp;I D E A S</b>
 
-### Kurzfassung:
+## Kurzfassung:
 
 * 🧑‍🎨 **Software Artist**: Ich bin ein erfahrener Senior Software Engineer, der über den Tellerrand hinausblickt und Software mit höchsten Standards entwickelt.
 * 🧑‍💻 **Technologien**: Beherrsche TypeScript, React, Frontend, Backend und Full-Stack-Entwicklung.
 * ❤️ **Kollaboration**: Leidenschaftlicher Befürworter von Zusammenarbeit und Mitgefühl in der Arbeitsumgebung.
 * 🎓 **Trainer & Mentor**: Teile mein Wissen und meine Erfahrungen gerne durch Trainings und individuelles Mentoring.
-* ✈️ **Remote Worker**: Erfahrener und effektiver Remote Worker, der die Zukunft der Arbeit aktiv mitgestaltet.
 * 📝 **Veränderung ist die einzige Konstante im Leben**: Ich bin stets offen für neue Herausforderungen und Veränderungen.
 * 😃 **Pronomen**: Er/ihn
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="16" alt="Objective-C" />&nbsp;**[Vollständiges Profil auf LinkedIn](https://www.linkedin.com/in/tscharke)**
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="16" alt="Objective-C" />
+  &nbsp;**[Vollständiges Profil auf LinkedIn](https://www.linkedin.com/in/tscharke)**
 
 ## 🧑‍🎨 Software Artist
 
@@ -51,8 +49,20 @@ Zusätzlich verfüge ich über umfassende Erfahrung in folgenden **Software-Meth
         TypeScript
     </li>
     <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="16" height="16" alt="JavaScript" /> 
+        JavaScript
+    </li>
+    <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="16" height="16" alt="React" /> 
         React
+    </li>
+    <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="16" height="16" alt="Svelte" /> 
+        Svelte
+    </li>
+    <li>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="16" height="16" alt="Next" /> 
+        NextJS 13+
     </li>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="16" height="16" alt="Tailwind" /> 
@@ -63,10 +73,6 @@ Zusätzlich verfüge ich über umfassende Erfahrung in folgenden **Software-Meth
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="16" height="16" alt="GraphQL" /> 
         GraphQL, REST- & WebServices (SOAP)
-    </li>
-    <li>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="16" height="16" alt="JavaScript" /> 
-        JavaScript
     </li>
     <li>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="16" height="16" alt="HTML" /> 
@@ -155,23 +161,19 @@ Menschen aus verschiedenen Hintergründen zusammenzubringen.
 Zusätzlich zur Entwicklung teile ich mein Wissen und meine Erfahrung gerne durch Trainings und individuelles Mentoring. Ich bin fest davon überzeugt, dass der
 Wissensaustausch eine der wichtigsten Säulen des Erfolgs ist, und engagiere mich aktiv dafür, andere zu fördern und zu unterstützen.
 
-## ✈️ Remote Worker
-
-Als Remote Worker bin ich geübt darin, effektiv in verteilten Teams zu arbeiten und kreative Lösungen zu entwickeln. Ich bin flexibel und anpassungsfähig und
-habe kein Problem damit, mich in verschiedenen Umgebungen zurechtzufinden. Mein Ziel ist es, die Zukunft der Arbeit aktiv mitzugestalten und innovative Ansätze
-zur Zusammenarbeit zu fördern.
-
 ## 🫶 Interessen und berufliche Ausrichtung
 
 ### Ausrichtung
 
-* 🫶 **Nachhaltige Entwicklung:** Leidenschaftliches Interesse an Innovationen und Entwicklungen im Bereich der nachhaltigen Produkte für eine bessere Zukunft.
 * 🧑‍🤝‍🧑 **Team- und Zusammenarbeit:** Sehnsucht danach, in einem gemeinschaftlichen Umfeld zu arbeiten und nachhaltige Gemeinschaften aufzubauen.
   Leidenschaftlich engagiert für die Zusammenarbeit in interdisziplinären Teams und die Schaffung positiver Arbeitsumgebungen.
+* 🫶 **Nachhaltige Entwicklung:** Leidenschaftliches Interesse an Innovationen und Entwicklungen im Bereich der nachhaltigen Produkte für eine bessere Zukunft.
 * 🧑‍🤝‍🧑 **Open Source-Projekte**, zu denen ich beitragen kann
 
 ### Interessen
 
+* **GO:** Daran interessiert eine neue [Programmiersprache]((https://go.dev)) und ein neues Sprachkonzept zu lernen und fasziniert von den Möglichkeiten, gepaart
+  mit der scheinbaren einfachheit.
 * **React Server Components:** Neugierig auf die Potenziale und Anwendungsfälle
   von [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components) und deren
   Auswirkungen auf die Art und Weise, wie
