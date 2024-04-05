@@ -12,8 +12,7 @@
 * 🎓 **Trainer & Mentor**: Enjoy sharing my knowledge and experience through training and individual mentoring.
 * 📝 **Change is the only constant in life**: Always open to new challenges and changes.
 * 😃 **Pronouns**: He/him
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="16" alt="Objective-C" />
-  &nbsp;**[Full Profile on LinkedIn](https://www.linkedin.com/in/tscharke)**
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="16" alt="Objective-C" />&nbsp;**[Full Profile on LinkedIn](https://www.linkedin.com/in/tscharke)**
 
 ## 🧑‍🎨 Software Artist
 
